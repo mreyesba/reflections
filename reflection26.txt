@@ -1,0 +1,3 @@
+How might using version control make you more confident to make changes that could break something?
+
+Because it is easy to check previous versions of your code in order to find what you did wrong.

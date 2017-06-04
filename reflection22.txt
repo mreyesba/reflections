@@ -1,0 +1,3 @@
+How can you use the commands git log and git diff to view the history of files?
+
+With git log you can see the comments that people has done afer making a few changes, git diff helps you to find what has been modified between two commented versions, which is very helpfull
