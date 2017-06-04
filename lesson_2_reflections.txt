@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+you create a .git.txt file that tracks your project files. You need it because otherwise you can not use git commands for that repository which makes git useless
