@@ -5,3 +5,7 @@ you create a .git.txt file that tracks your project files. You need it because o
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is related directly to a commit the working directory is essecially the folder you are working on, so they are pretty different things. It is a very usefull tool because it helps you to indicate which files have been modified in a commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+you can compare the staging area with the last commit in your repository to be sure what exactly are you commenting
