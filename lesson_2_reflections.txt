@@ -9,3 +9,7 @@ The staging area is related directly to a commit the working directory is esseci
 How can you use the staging area to make sure you have one commit per logical change?
 
 you can compare the staging area with the last commit in your repository to be sure what exactly are you commenting
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to try new thing that are not necesary related to the aim of the project. That way you can have different goals of the same project in order and differientiated(That word exists?).
