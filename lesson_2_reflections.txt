@@ -17,3 +17,7 @@ When you want to try new thing that are not necesary related to the aim of the p
 How do the diagrams help you visualize the branch structure?
 
 Diagrams help me to understand how branches work, visualizing the trees makes it a lot easier to get the concepts and ideas.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+You get a new file with the changes of the both branches. It is represented that way in the diagram for the same reason that we mentioned before.
