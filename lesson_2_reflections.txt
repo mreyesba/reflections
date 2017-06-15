@@ -13,3 +13,7 @@ you can compare the staging area with the last commit in your repository to be s
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When you want to try new thing that are not necesary related to the aim of the project. That way you can have different goals of the same project in order and differientiated(That word exists?).
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help me to understand how branches work, visualizing the trees makes it a lot easier to get the concepts and ideas.
