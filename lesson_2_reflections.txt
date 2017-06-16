@@ -21,3 +21,10 @@ Diagrams help me to understand how branches work, visualizing the trees makes it
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 You get a new file with the changes of the both branches. It is represented that way in the diagram for the same reason that we mentioned before.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros:
+-Is way faster when Git is doing it
+cons:
+-Git can make some mistakes and that can lead to several problems
