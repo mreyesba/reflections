@@ -2,3 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
 
 If you work in multiple computers or if you share the project with other people, keeping your project in a remote repositoy might be a 
 pretty good idea.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because maybe there are changes that are not worth it to save due to their size or importance. It's important to have that flexibility.
