@@ -14,3 +14,7 @@ fork is when you copy a repository that is on github to your github acount, that
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 This way you are updated or at least not that behind in the project. It better to work with something that is the most recent possible.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would use google drive, sharing and working would be pretty difficult, and slow, but at least I would not have to learn all these. Anyway, I consider learning this is worth it all the way.
