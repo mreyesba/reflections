@@ -18,3 +18,7 @@ This way you are updated or at least not that behind in the project. It better t
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would use google drive, sharing and working would be pretty difficult, and slow, but at least I would not have to learn all these. Anyway, I consider learning this is worth it all the way.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+As we saw previously when creating branches, this helps to be more able to do experients, to try new ideas when it is not planed to be part of the principal project.
